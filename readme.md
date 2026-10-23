@@ -196,7 +196,7 @@ python app.py
 Open the local URL displayed in your terminal, commonly:
 
 ```text
-http://127.0.0.1:5000/
+https://customer-churn-predictor-srum.onrender.com/
 ```
 
 Enter the customer information on the webpage and submit the form to view the prediction.
